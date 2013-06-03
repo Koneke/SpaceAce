@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>ship.png</Source>
+      <Name>ship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\ship.xnb</Output>
+      <Time>2013-06-03T07:59:34.5315836+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bg.png</Source>
+      <Name>bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\bg.xnb</Output>
+      <Time>2013-06-03T08:25:31.6806474+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2013-06-03T08:32:07.8423066+02:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy.png</Source>
+      <Name>enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\enemy.xnb</Output>
+      <Time>2013-06-03T09:00:27.6415295+02:00</Time>
+    </Item>
+    <Item>
+      <Source>field.png</Source>
+      <Name>field</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\field.xnb</Output>
+      <Time>2013-06-03T09:38:40.997702+02:00</Time>
+    </Item>
+    <Item>
+      <Source>particle.png</Source>
+      <Name>particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\particle.xnb</Output>
+      <Time>2013-06-03T10:47:51.7351106+02:00</Time>
+    </Item>
+    <Item>
+      <Source>asteroid.png</Source>
+      <Name>asteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\asteroid.xnb</Output>
+      <Time>2013-06-03T11:44:49.0745712+02:00</Time>
+    </Item>
+    <Item>
+      <Source>help.png</Source>
+      <Name>help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\help.xnb</Output>
+      <Time>2013-06-03T14:17:45.1524129+02:00</Time>
+    </Item>
+    <Item>
+      <Source>menu.png</Source>
+      <Name>menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\menu.xnb</Output>
+      <Time>2013-06-03T16:32:43.7866283+02:00</Time>
+    </Item>
+    <Item>
+      <Source>options.png</Source>
+      <Name>options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\options.xnb</Output>
+      <Time>2013-06-03T17:10:33.0324217+02:00</Time>
+    </Item>
+    <Item>
+      <Source>helpmenu.png</Source>
+      <Name>helpmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\helpmenu.xnb</Output>
+      <Time>2013-06-03T17:13:23.9621983+02:00</Time>
+    </Item>
+    <Item>
+      <Source>dpad.png</Source>
+      <Name>dpad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\dpad.xnb</Output>
+      <Time>2013-06-03T18:38:29.057193+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shoot.wav</Source>
+      <Name>shoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\shoot.xnb</Output>
+      <Time>2013-06-03T10:42:09.9675626+02:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.wav</Source>
+      <Name>explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2013-06-03T10:42:49.1818055+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hit.wav</Source>
+      <Name>hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\hit.xnb</Output>
+      <Time>2013-06-03T10:43:56.3886496+02:00</Time>
+    </Item>
+    <Item>
+      <Source>roll.wav</Source>
+      <Name>roll</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\roll.xnb</Output>
+      <Time>2013-06-03T10:45:24.110667+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shieldbreak.wav</Source>
+      <Name>shieldbreak</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\shieldbreak.xnb</Output>
+      <Time>2013-06-03T12:08:20.5113008+02:00</Time>
+    </Item>
+    <Item>
+      <Source>death.wav</Source>
+      <Name>death</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\death.xnb</Output>
+      <Time>2013-06-03T12:14:10.1763005+02:00</Time>
+    </Item>
+    <Item>
+      <Source>konamicode.wav</Source>
+      <Name>konamicode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\konamicode.xnb</Output>
+      <Time>2013-06-03T14:56:12.1823674+02:00</Time>
+    </Item>
+    <Item>
+      <Source>boop.wav</Source>
+      <Name>boop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\boop.xnb</Output>
+      <Time>2013-06-03T17:58:17.4232555+02:00</Time>
+    </Item>
+    <Item>
+      <Source>KlaraJam.wav</Source>
+      <Name>KlaraJam</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\KlaraJam.xnb</Output>
+      <Time>2013-06-03T18:15:12.0372881+02:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2013-06-03T12:44:51.9136418+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ingame.spritefont</Source>
+      <Name>ingame</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\ingame.xnb</Output>
+      <Time>2013-06-03T19:48:04.3780077+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJamContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJamContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJam\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-12-08T16:01:48.0992379+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

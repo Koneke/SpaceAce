@@ -1,0 +1,2 @@
+c:\users\lukas\documents\visual studio 2010\Projects\KlaraJam\KlaraJam\KlaraJamContent\obj\x86\Debug\KlaraJamContent.contentprojResolveAssemblyReference.cache
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\KlaraJam (post)\KlaraJam\KlaraJamContent\obj\x86\Debug\KlaraJamContent.contentprojResolveAssemblyReference.cache
